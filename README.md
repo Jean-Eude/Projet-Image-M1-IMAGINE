@@ -2,7 +2,7 @@
 
 
 
-Projet réalisé en collaboration avec Oren Amsalhem.
+Projet réalisé en collaboration avec Oren Amsalhem dans le cadre de la création d'une application permettant de transformer une image en une image super pixelisée.
 
 
 
